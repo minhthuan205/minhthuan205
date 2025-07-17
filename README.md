@@ -25,7 +25,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href="https://www.kaggle.com/thuanpv1695" alt="Kaggle" target="_blank" >
-    <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
+    <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png" alt="external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo"/>
   </a>
   <a href="mailto:thuan.pv1695@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
@@ -40,7 +40,7 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img width="50" height="50" src="https://img.icons8.com/fluency/50/arduino.png" alt="arduino"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/>
+  <img width="50" height="50" src="https://img.icons8.com/fluent/48/000000/github.png"/>
 </p>
 
 ## Activities:
@@ -49,7 +49,7 @@
   <tr>
     <td style="width:100%;">
       <div style="width:100%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhthuan205&layout=donut" alt="Top Languages" style="width:100%;"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhthuan205&layout=donut&bg_color=FFFFFF00&text_color=179fa3" alt="Top Languages" style="width:100%;"/>
         <img src="https://github-readme-stats.vercel.app/api?username=minhthuan205&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=%20Activities%20on%20Github" alt="minhthuan205" width="100%"/>
       </div>
     </td>
