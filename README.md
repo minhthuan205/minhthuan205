@@ -9,7 +9,9 @@
   <h3 align="center">A student from Vietnam 🇻🇳 with a strong interest in Embedded Systems and IoT. </h3>
 </p>
 
-> ✍ I'm a student at [Hanoi University of Science and Technology](https://hust.edu.vn/) (HUST).
+<p align="center">
+  I'm a student at <a href="https://hust.edu.vn/">Hanoi University of Science and Technology</a> (HUST).
+</p>
 
 <br />
 
