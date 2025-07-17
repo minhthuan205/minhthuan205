@@ -47,9 +47,11 @@
 
 <table style="width:100%;">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhthuan205&layout=donut"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=minhthuan205&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=%20Activities%20on%20Github" alt="minhthuan205" width="100%"/>
+    <td style="width:100%;">
+      <div style="width:100%;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhthuan205&layout=donut" alt="Top Languages" style="width:100%;"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=minhthuan205&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=%20Activities%20on%20Github" alt="minhthuan205" width="100%"/>
+      </div>
     </td>
     <td>
       <p align="center"> 
