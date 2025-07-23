@@ -53,10 +53,11 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+        <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
 </table>
 
 # Certificates:
+- [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Python](https://www.kaggle.com/learn/certification/thuanpv1695/python)
